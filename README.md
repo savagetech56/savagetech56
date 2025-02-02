@@ -26,9 +26,7 @@ Hello! I'm [*savagetech56*](https://github.com/savagetech56), a passionate devel
 
 Here are some of the latest repositories I am working on:
 
-- [Project 1 Name](https://github.com/savagetech56/project1)
-- [Project 2 Name](https://github.com/savagetech56/project2)
-- [Project 3 Name](https://github.com/savagetech56/project3)
+- [Premium auto script](https://github.com/savagetech56/Toxic-tech)
 
 🎯 Contributions & Achievements
 
@@ -39,13 +37,10 @@ Here are some of the latest repositories I am working on:
 📫 How to reach me:
 
 Feel free to reach out to me via:
-- Email: *youremail@example.com*
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- Email: *alisavage83@gmail.com*
+- Telegram: [@ToxicSavage](https://telegram.com/username)
 
-📄 Resume
-
-You can download my latest resume [here](https://example.com/resume).
+You can can reach me directly [here](https://wa.me/254716637803).
 
 ⚡ Fun Facts
 

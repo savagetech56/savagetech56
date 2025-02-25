@@ -1,5 +1,3 @@
-👋 Welcome to the Profile of savagetech56
-
 Hello! I'm [*savagetech56*](https://github.com/savagetech56), a passionate developer with a keen interest in tech and coding. I love exploring new technologies and contributing to open-source projects.
 
 🌐 About Me
@@ -21,6 +19,11 @@ Hello! I'm [*savagetech56*](https://github.com/savagetech56), a passionate devel
 
 📈 GitHub Stats
 ![savagetech56's GitHub Stats](https://github-readme-stats.vercel.app/api?username=savagetech56&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=+W+E+L+C+O+M+E" />
+</p>
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TO-TØXIC-𝐓𝐄𝐂𝐇" />
 
 🔧 Latest Projects
 
@@ -47,5 +50,3 @@ You can can reach me directly [here](https://wa.me/254716637803).
 - 🎮 I enjoy gaming in my free time.
 - 🌍 I love traveling and exploring new places.
 - 🎨 A huge fan of graphic design and creative work.
-
-Thank you for visiting my profile
